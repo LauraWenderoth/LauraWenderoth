@@ -27,6 +27,8 @@ I am open to discussions on research, real-world medical ML, and interdisciplina
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue?style=flat)
 
+[![GitHub stars](https://img.shields.io/github/stars/laurawenderoth?style=social)](https://github.com/laurawenderoth)
+
 **I'm an Early 🐤**
 
 ```text
@@ -50,8 +52,6 @@ No Activity Tracked This Week
 
  Last Updated on 23/02/2026 19:38:55 UTC
 <!--END_SECTION:waka-->
-
----
 
 ## Get in Touch
 
