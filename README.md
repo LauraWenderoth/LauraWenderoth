@@ -25,23 +25,22 @@ I am open to discussions on research, real-world medical ML, and interdisciplina
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-[![GitHub stars](https://img.shields.io/github/stars/laurawenderoth?style=social)](https://github.com/laurawenderoth)
-
-**I'm an Early 🐤**
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                73 commits          ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-🌆 Daytime                117 commits         ███████████░░░░░░░░░░░░░░   44.66 % 
-🌃 Evening                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-🌙 Night                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+🌞 Morning                124 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+🌆 Daytime                372 commits         ████████████████░░░░░░░░░   65.96 % 
+🌃 Evening                63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Hamburg/GER
+🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -50,7 +49,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
- Last Updated on 23/02/2026 19:38:55 UTC
+
+ Last Updated on 23/02/2026 22:01:32 UTC
 <!--END_SECTION:waka-->
 
 ## Get in Touch
