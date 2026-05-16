@@ -25,8 +25,32 @@ I am open to discussions on research, real-world medical ML, and interdisciplina
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
- Last Updated on 15/05/2026 19:59:19 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                127 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+🌆 Daytime                372 commits         ████████████████░░░░░░░░░   64.70 % 
+🌃 Evening                71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 16/05/2026 19:38:01 UTC
 <!--END_SECTION:waka-->
 
 ## Get in Touch
