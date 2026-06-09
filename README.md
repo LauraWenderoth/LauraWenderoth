@@ -25,8 +25,6 @@ I am open to discussions on research, real-world medical ML, and interdisciplina
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -50,7 +48,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/06/2026 20:38:36 UTC
+ Last Updated on 09/06/2026 20:24:44 UTC
 <!--END_SECTION:waka-->
 
 ## Get in Touch
